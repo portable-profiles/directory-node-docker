@@ -33,7 +33,7 @@
     "graphql-tag": "^2.10.1",
     "graphql-tools": "^4.0.4",
     "jest": "^24.8.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "typescript": "^3.5.2"
   },
   "devDependencies": {
